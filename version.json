@@ -1,0 +1,5 @@
+{
+    "version": "v1.2.8",
+    "changelog": "AutoBot v1.2.8: Nâng cấp cơ chế cập nhật OTA 2 tầng (Raw + GitHub Releases API), chống lỗi HTTP 403 Rate Limit; xử lý triệt để chuyển hướng 302 đa tầng khi tải classes3.dex; sửa triệt để lỗi săn Boss 10s tự rút lui và chuẩn hóa hiển thị đồng bộ lượt Server động.",
+    "dex_url": "https://github.com/HuyenLTB24/AutoTVLAPK/releases/download/v1.2.8/classes3.dex"
+}
